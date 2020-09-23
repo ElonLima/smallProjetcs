@@ -11,6 +11,8 @@ Esse repositório é dedicado a pequenos projetos nos quais eu pratico o que eu 
 -> Essa tabela vai ser atualizada conforme novas tecnologias forem incorporadas a esse portfólio.
 ## :file_folder: Tabela de projetos
 - **[JavaScript UI Dark](javascriptClock)**
+- **[Loading Bar Animation](LoadingBarAnimation)**
+- **[Responsive Card](ResponsiveCardDesign)**
 <br>
 
 ## :package: Como baixar todo esse repositório
