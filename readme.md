@@ -13,6 +13,7 @@ Esse repositório é dedicado a pequenos projetos nos quais eu pratico o que eu 
 - **[JavaScript UI Dark](javascriptClock)**
 - **[Loading Bar Animation](LoadingBarAnimation)**
 - **[Responsive Card](ResponsiveCardDesign)**
+- **[Countdown Timer](countdowntimer)**
 <br>
 
 ## :package: Como baixar todo esse repositório

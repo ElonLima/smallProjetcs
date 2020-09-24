@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CountDown</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>CountDown</h1>
+    </header>
+    <div class="content">
+        <div class="counter"></div>
+            <input type="number" id="seconds" placeholder="Seconds">
+            <div class="buttons">
+                <button class="btn start" id="start" value="1" onclick="check(this)">Start</button>
+                <button class="btn start" id="continue" value="1" onclick="check(this)">Continue</button>
+                <button class="btn stop" id="stop" value="0" onclick="check(this)">Stop</button>
+                <button class="btn start" id="ok" onclick="toSubmit()">Submit</button>
+            </div>
+        </div>
+    <script src="script.js"></script>
+</body>
+</html>
