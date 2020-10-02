@@ -14,6 +14,8 @@ Esse repositório é dedicado a pequenos projetos nos quais eu pratico o que eu 
 - **[Loading Bar Animation](LoadingBarAnimation)**
 - **[Responsive Card](ResponsiveCardDesign)**
 - **[Countdown Timer](countdowntimer)**
+- **[Loading Animation](#-loadinganimation)**
+- **[Glowing Text Animation](#-glowingTextAnimation)**
 <br>
 
 ## :package: Como baixar todo esse repositório
